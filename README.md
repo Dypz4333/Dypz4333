@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Me chamo Matheus Gabriel e sou um desenvolvedor front-end
+Me chamo Matheus Gabriel e sou um desenvolvedor front-end, atualmente estudando para futuramente me tornar um desenvolver do fullstack
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gabriel-020187268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
