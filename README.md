@@ -1,4 +1,10 @@
-## Stacks 📕
+## 🚀 Sobre mim
+Me chamo Matheus Gabriel e sou um desenvolvedor front-end
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gabriel-020187268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## 📕 Stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
